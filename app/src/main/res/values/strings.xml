@@ -4,5 +4,7 @@
     <string name="app_name">Energy_Utility_App</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="button1_test">Click Me!</string>
+
 
 </resources>
