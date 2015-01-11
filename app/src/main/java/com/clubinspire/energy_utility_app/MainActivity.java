@@ -34,14 +34,14 @@ public class MainActivity extends ActionBarActivity {
         final TextView firstTextView = (TextView) findViewById(R.id.textView);
         // I set up the Button just like I did the TextView
 
-        Button firstButton = (Button) findViewById(R.id.button1);
+        Button firstButton = (Button) findViewById(R.id.sign_in_button);
 
 
         // This is how you make the Button change the text in the TextView when it is clicked
         firstButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                firstTextView.setText("You Clicked");
+                firstTextView.setText("Try Again!");
             }
         });
 

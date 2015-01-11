@@ -16,15 +16,16 @@
         android:layout_centerHorizontal="true"
         android:id="@+id/textView"
         android:textColor="#ff000000"
-        android:background="#ffffffff" />
+        android:background="#ffffffff"
+        android:typeface="monospace"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button1_test"
-        android:id="@+id/button1"
-        android:layout_marginTop="31dp"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true" />
+        android:text="@string/sign_in_button"
+        android:id="@+id/sign_in_button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="121dp" />
 
 </RelativeLayout>
