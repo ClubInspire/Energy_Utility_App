@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="app_name">Eco-planificador</string>
+    <string name="email_hint_text">Introduzca su dirección de correo electrónico</string>
+    <string name="intro_text">Login</string>
+    <string name="password_hint_text">Introduzca una contraseña</string>
+    <string name="reenter_password_hint_text">Entre de nuevo en su contraseña</string>
+    <string name="sign_in_button">Sign In</string>
+
+</resources>
