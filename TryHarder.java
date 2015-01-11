@@ -24,6 +24,7 @@ public class TryHarder extends JFrame {
 
        JButton quitButton = new JButton("Commit Sudoku");
        quitButton.setBounds(50, 60, 140, 40);
+       //(x,y,Width,Height)
        quitButton.addActionListener(new ActionListener() {
            public void actionPerformed(ActionEvent event) {
                System.exit(0);
@@ -34,6 +35,7 @@ public class TryHarder extends JFrame {
 
        setTitle("Commit Sudoku?");
        setSize(300, 200);
+       //(Width,Height)
        setLocationRelativeTo(null);
        setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
