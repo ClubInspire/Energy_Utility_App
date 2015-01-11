@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Eco Planner</string>
+    <string name="app_name">Eco-planner</string>
     <string name="intro_text">Log In</string>
     <string name="action_settings">Settings</string>
     <string name="sign_in_button">Sign In</string>
